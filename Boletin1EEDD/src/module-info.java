@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Boletin1EEDD {
+module ejemplodocumentacion {
 }
